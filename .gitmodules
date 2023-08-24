@@ -1,0 +1,4 @@
+[submodule "martimassoblog/public"]
+	path = martimassoblog/public
+	url = https://github.com/MartiMasso/martimasso2.github.io.git
+	branch = main
